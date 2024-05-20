@@ -1,0 +1,10 @@
+[khoi tao local repository]
+git init .
+
+git add .
+
+git commit -m "your message"
+
+git log
+
+git remote add origin < remote repository url>
