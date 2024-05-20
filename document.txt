@@ -11,6 +11,12 @@ git remote add origin < remote repository url>
 
 git push -u origin master
 
+###truong hop so 2 day git code moi len>>
+1.git add -A
+2.git commit -m "<commit message>"
+3.git push 
+
+
 
 
 {ADDITIONAL GIT CLI}
