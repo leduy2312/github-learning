@@ -8,3 +8,10 @@ git commit -m "your message"
 git log
 
 git remote add origin < remote repository url>
+
+git push -u origin master
+
+
+
+{ADDITIONAL GIT CLI}
+git branch
